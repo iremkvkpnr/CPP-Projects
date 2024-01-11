@@ -1,0 +1,51 @@
+﻿  3DGridMap.cpp
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C3872: '0xa0': this character is not allowed in an identifier
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C2061: syntax error: identifier 'Point p'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Transform.h(17,10): fatal error C1083: Cannot open include file: 'Eigen/Dense': No such file or directory
+  DepthCamera.cpp
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C3872: '0xa0': this character is not allowed in an identifier
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C2061: syntax error: identifier 'Point p'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Transform.h(17,10): fatal error C1083: Cannot open include file: 'Eigen/Dense': No such file or directory
+  main.cpp
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C3872: '0xa0': this character is not allowed in an identifier
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C2061: syntax error: identifier 'Point p'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Transform.h(17,10): fatal error C1083: Cannot open include file: 'Eigen/Dense': No such file or directory
+  Map.cpp
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C3872: '0xa0': this character is not allowed in an identifier
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C2061: syntax error: identifier 'Point p'
+  MapperInterface.cpp
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C3872: '0xa0': this character is not allowed in an identifier
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C2061: syntax error: identifier 'Point p'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Transform.h(17,10): fatal error C1083: Cannot open include file: 'Eigen/Dense': No such file or directory
+  Point.cpp
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Point.cpp(88,8): error C3873: '0xa0': this character is not allowed as a first character of an identifier
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Point.cpp(88,8): error C2039: ' ': is not a member of 'Point'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Point.h(17): message : see declaration of 'Point'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Point.cpp(88,10): error C2143: syntax error: missing ';' before '~'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Point.cpp(88,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Point.cpp(88,16): error C2588: '::~Point': illegal global destructor
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Point.cpp(88,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Point.cpp(90,1): warning C4508: 'Point': function should return a value; 'void' return type assumed
+  PointCloud.cpp
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C3872: '0xa0': this character is not allowed in an identifier
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C2061: syntax error: identifier 'Point p'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.cpp(19,1): error C2511: 'void PointCloud::ınsertPoints(Point)': overloaded member function not found in 'PointCloud'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(14): message : see declaration of 'PointCloud'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.cpp(52,35): error C2660: 'PointCloud::ınsertPoints': function does not take 1 arguments
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,7): message : see declaration of 'PointCloud::ınsertPoints'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.cpp(71,36): error C2660: 'PointCloud::ınsertPoints': function does not take 1 arguments
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,7): message : see declaration of 'PointCloud::ınsertPoints'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.cpp(76,2): error C3872: '0xa0': this character is not allowed in an identifier
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.cpp(76,2): error C2065: 'return ': undeclared identifier
+  PointCloudGenerator.cpp
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C3872: '0xa0': this character is not allowed in an identifier
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C2061: syntax error: identifier 'Point p'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Transform.h(17,10): fatal error C1083: Cannot open include file: 'Eigen/Dense': No such file or directory
+  PointCloudRecorder.cpp
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C3872: '0xa0': this character is not allowed in an identifier
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C2061: syntax error: identifier 'Point p'
+  Transform.cpp
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C3872: '0xa0': this character is not allowed in an identifier
+C:\Users\irem\Desktop\nesnetabanlıproje\main\PointCloud.h(33,21): error C2061: syntax error: identifier 'Point p'
+C:\Users\irem\Desktop\nesnetabanlıproje\main\Transform.h(17,10): fatal error C1083: Cannot open include file: 'Eigen/Dense': No such file or directory
+  Generating Code...
